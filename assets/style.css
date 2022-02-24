@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.card-text, .card-title{
+    color: black;
+}
+
+.intro-pic {
+    display: flex;
+    margin-top: 1.75rem;
+    justify-content: center;
+}
+
+.intro {
+    display: flex;
+    flex-wrap: wrap;   
+    margin-top: 1.75rem;
+    justify-content: center;
+}
+
+main {
+    padding-top: 6rem;
+}
+
+.i {
+    margin-left: 2.5rem;
+}
+
+.am {
+    margin-left: 5rem;
+}
+
+.chris {
+    margin-left: 7.5rem;
+}
+
+.tierney {
+    margin-left: 10rem;
+}
+
+#contact {
+    width: 100%;
+    justify-content: space-around;
+}
+
+.contact-links {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
