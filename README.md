@@ -8,3 +8,8 @@
 
 ** My main contact information is then displayed in the footer where the user will be taken to either my LinkedIn, Github, or my Resume.
 
+![Screenshot](./assets/images/portfolio_ss.JPG)
+
+## Contact info
+Email: chris.tierney3@gmail.com
+LinkedIn: https://www.linkedin.com/in/chris-tierney-833611180/
